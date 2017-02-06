@@ -1,11 +1,14 @@
 * {
-	background-color: #f00;
+	background: url("http://tse2.mm.bing.net/th?id=OIP.M211624313028f30e5042833364767ce3H0&w=269&h=180&c=7&qlt=90&o=4&pid=1.7") no-repeat center center;
+	background-size: cover;
+	background-attachment: fixed;
 }
 
 .headings {
-	font-family: impact;
+	font-family: Anton, Impact, sans-serif;
 }
 
-h3 {
-	font-family: georgia;
+p {
+	font-family: Oswald, sans-serif;
+	font-size: 150%;
 }
