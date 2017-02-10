@@ -1,1 +1,1 @@
-confirm.'Test'
+confirm('Test');
