@@ -7,9 +7,9 @@ if (age < 1) {
 
 else { confirm ("You aren't taking this seriously. You're going to regret that."); }
 
-console.log ("Okay, you have your hand chopped off. Blood sprays everywhere. You are going to bleed out. What do you do? Besides dying, of course.");
+confirm ("Okay, you have your hand chopped off. Blood sprays everywhere. You are going to bleed out. What do you do? Besides dying, of course.");
 
-console.log ("You haven't done anything to save yourself, so you commit seppuku. That's right, right?");
+confirm ("You haven't done anything to save yourself, so you commit seppuku. That's right, right?");
 
 userAnswer = prompt ("Are you sure you want to commit suicide?");
 
