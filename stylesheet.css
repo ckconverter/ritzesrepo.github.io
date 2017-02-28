@@ -6,6 +6,7 @@ h3 {
 }
 p {
 	font-family: sans-serif;
+	border: solid, 1px;
 }
 a {
 	color: red
